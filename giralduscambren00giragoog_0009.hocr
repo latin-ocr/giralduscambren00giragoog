@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./giralduscambren00giragoog_0009.png"; bbox 0 0 3000 5040; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 632 4144 732 4180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 632 4144 732 4180">
+     <span class='ocr_line' id='line_1_1' title="bbox 632 4144 732 4180; baseline -0.03 0"><span class='ocrx_word' id='word_1_1' title='bbox 632 4144 732 4180; x_wconf 75' lang='lat' dir='ltr'>LONDON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 391 4203 980 4332">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 391 4203 980 4332">
+     <span class='ocr_line' id='line_1_2' title="bbox 391 4203 980 4267; baseline -0.029 -8"><span class='ocrx_word' id='word_1_2' title='bbox 391 4216 476 4258; x_wconf 82' lang='lat' dir='ltr'><strong>Pn&#39;nted</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 484 4216 511 4267; x_wconf 77' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 521 4216 543 4255; x_wconf 80' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 553 4214 572 4254; x_wconf 75' lang='grc' dir='ltr'><strong>δι</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 581 4215 602 4254; x_wconf 87' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 612 4213 733 4258; x_wconf 68' lang='lat' dir='ltr'><strong>namn,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 743 4209 849 4254; x_wconf 73' lang='lat' dir='ltr'>Wmon,</span> <span class='ocrx_word' id='word_1_9' title='bbox 858 4203 900 4244; x_wconf 75' lang='lat' dir='ltr'><strong>and</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 910 4203 980 4251; x_wconf 75' lang='lat' dir='ltr'><strong>Fm,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 529 4275 838 4332; baseline -0.029 -10"><span class='ocrx_word' id='word_1_11' title='bbox 529 4283 612 4332; x_wconf 71' lang='lat' dir='ltr'><strong>Bangor</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 622 4280 699 4325; x_wconf 74' lang='lat' dir='ltr'>House,</span> <span class='ocrx_word' id='word_1_13' title='bbox 711 4276 764 4316; x_wconf 79' lang='lat' dir='ltr'>Shoe</span> <span class='ocrx_word' id='word_1_14' title='bbox 774 4275 838 4314; x_wconf 58' lang='lat' dir='ltr'>Iane.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1504 5040">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1504 5040">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1504 5040; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1504 5040; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
